@@ -7,7 +7,7 @@ This repository deploys with *docker-compose* an ELK stack which has kafka clust
 2.  [Install Docker compose](https://docs.docker.com/compose/install/)
 3.  Clone this repository:
     ```
-    git clone git@github.com:sermilrod/kafka-elk-docker-compose.git
+    git clone git@github.com:Val2003/kafka-elk-docker-compose.git
     ```
 4. [Configure File Descriptors and MMap](https://www.elastic.co/guide/en/elasticsearch/guide/current/_file_descriptors_and_mmap.html)
 To do so you have to type the following command:
